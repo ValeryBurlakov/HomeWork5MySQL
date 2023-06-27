@@ -1,0 +1,21 @@
+id,id_train,station_name,station_time_without..
+1,103,St. Petersburg,6:41:05
+2,102,Moscow,4:39:37
+3,103,Kirovsk,3:42:25
+4,103,Nizhny Novgorod,5:30:00
+5,103,Sochi,8:23:44
+6,103,Murmansk,8:10:14
+7,103,Volgograd,6:05:46
+8,101,Kandalaksha,3:56:26
+9,102,Kirovsk,7:50:30
+10,103,Volgograd,7:59:50
+11,101,Murmansk,6:20:32
+12,103,St. Petersburg,4:43:53
+13,101,Kirovsk,2:08:55
+14,103,Rostov-on-Don,6:13:50
+15,102,Krasnodar,3:12:03
+16,102,St. Petersburg,8:23:58
+17,102,Krasnodar,2:13:18
+18,103,Sochi,4:08:43
+19,101,Krasnodar,6:16:47
+20,101,Krasnodar,2:35:30
